@@ -1,5 +1,3 @@
 # Links
 
-https://gaussian.com/basissets/
-
-https://link.medium.com/pI7i2eOeapb
+This repostory contains favorite links about the subjects that @Leticia-maria is interested in. It may be useful for you too.
