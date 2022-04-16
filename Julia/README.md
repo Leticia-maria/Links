@@ -11,3 +11,7 @@
 > Arrays
 
 [Push!](https://towardsdatascience.com/everything-you-need-to-know-about-push-in-julia-1f01891f1c0a)
+
+> Documentation
+
+[Doc-String](https://towardsdatascience.com/julias-doc-string-system-is-awesome-and-here-is-why-197ba6a0236b)
